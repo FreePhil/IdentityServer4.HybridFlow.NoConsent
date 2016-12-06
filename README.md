@@ -21,7 +21,7 @@ IdentityServer4 sample using Hybrid flow and without a consent page.
   Page which calls protected API.
 * [http://localhost:42705/Login/Logout](http://localhost:42705/Login/Logout)
   
-  Logout page.
+  Logout page. You need to close all browser windows and you may need to clear cookies.
 
 ### Remarks:
 
