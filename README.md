@@ -7,7 +7,7 @@ IdentityServer4 sample using Hybrid flow and without a consent page.
 * [http://localhost:34599/](http://localhost:34599/) Protected API
 * [http://localhost:22507/](http://localhost:22507/) MVC Client
 
-### URLs:
+### Pages:
 
 * [http://localhost:22507/web/protectedWeb](http://localhost:22507/web/protectedWeb)
   
