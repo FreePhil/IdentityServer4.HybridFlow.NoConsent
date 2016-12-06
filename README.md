@@ -22,3 +22,7 @@ IdentityServer4 sample using Hybrid flow and without a consent page.
 * [http://localhost:42705/Login/Logout](http://localhost:42705/Login/Logout)
   
   Logout page.
+
+### Remarks:
+
+Console client uses Client Credential flow to make API call.
