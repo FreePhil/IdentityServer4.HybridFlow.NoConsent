@@ -25,4 +25,4 @@ IdentityServer4 sample using Hybrid flow and without a consent page.
 
 ### Remarks:
 
-Console client uses Client Credential flow to make API call.
+Console client uses Client Credential flow to make API call. Hence no "sub" claim in the token. MVC client login is on behalf of the user so the token does have "sub" claim.
