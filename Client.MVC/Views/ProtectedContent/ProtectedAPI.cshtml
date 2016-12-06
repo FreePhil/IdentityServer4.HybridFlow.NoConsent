@@ -1,0 +1,8 @@
+﻿Protected API call
+<br />
+<!-- These "asp-*" helpers require Microsoft.AspNetCore.Mvc.TagHelpers imported in the _ViewImports.cshtml -->
+<form asp-controller="web" asp-action="protectedAPICall" method="post">
+    <button class="btn btn-primary">Call API</button>
+</form>
+<br />
+@ViewBag.CallResult
