@@ -11,7 +11,11 @@ IdentityServer4 sample using Hybrid flow and without a consent page.
 
 * [http://localhost:22507/web/protectedWeb](http://localhost:22507/web/protectedWeb)
   
-  Page that requires login.
+  Page that requires login. 
+  
+  **Username:** test.user
+  
+  **Password:** password
 * [http://localhost:22507/web/protectedAPI](http://localhost:22507/web/protectedAPI)
   
   Page which calls protected API.
